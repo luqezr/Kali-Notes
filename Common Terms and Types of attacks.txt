@@ -1,0 +1,20 @@
+Types of attacks
+
+Password recovery attack
+Login bruteforce
+Session Fixation
+Injection Attacks
+Blind injection attack
+Shell Shock
+SQL Injection
+XSS Attack
+Man in the middle 
+
+Terms
+
+Rainbow Tables : huge sets of pre hashed values or premached to possible text passwords
+
+
+Protocols
+
+ARP
